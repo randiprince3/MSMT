@@ -1,0 +1,72 @@
+body,
+#root {
+  background: url("./images/kids.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+
+  /* font-family: "Righteous", cursive; */
+  font-family: "Merriweather Sans", sans-serif;
+}
+/* 
+#myVideo {
+  position: fixed;
+  right: 50px;
+  top: 170px;
+  width: 50%;
+  height: 65%;
+  border: 20px double rgb(163, 45, 45);
+} */
+
+/* button {
+  margin: 0px auto !important;
+  padding: 7px 12px;
+  font-size: 14px;
+  background: #5dbcd6;
+  color: rgb(248, 248, 248);
+  font-family: sans-serif;
+  cursor: pointer;
+  outline: 0;
+} */
+input {
+  color: black;
+}
+form,
+input,
+label {
+  margin: 20px;
+
+  /* float: left; */
+  text-align: left;
+  color: rgb(53, 154, 194);
+  font-size: 15pt;
+}
+
+.rw-widget {
+  width: 250px;
+}
+
+form {
+  background: rgba(255, 255, 255, 0.616);
+  border-radius: 25px;
+  width: 300px;
+  padding-left: 25px;
+  margin-left: 50px;
+  padding-bottom: 25px;
+}
+
+/* .container,
+center {
+  background: rgba(255, 255, 255, 0.616);
+  border-radius: 25px;
+  width: 300px;
+  padding-left: 25px;
+  margin-left: 50px;
+  padding-bottom: 25px;
+} */
+
+/* .container {
+  background: rgba(255, 255, 255, 0.616);
+} */
