@@ -76,7 +76,7 @@
     "redux": "^4.0.0",
     "redux-form": "^7.4.2",
     "redux-thunk": "^2.3.0",
-    "sequelize": "^4.39.0",
+    "sequelize": "^5.15.1",
     "twilio": "^3.22.0"
   }
 }
