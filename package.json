@@ -22,7 +22,7 @@
     "nodemon": "^1.14.6"
   },
   "dependencies": {
-    "aws-sdk": "^2.341.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.18.0",
     "base64-arraybuffer": "^0.1.5",
     "base64-arraybuffer-es6": "^0.4.1",
